@@ -10,3 +10,14 @@ Enter expenses offline
 When brought back online:
 
 Offline entries should be added to tracker.
+
+
+  *Create an app manifest.
+
+  * Register and install a service worker.
+
+  * Cache your files and deliver an offline experience.
+
+  * Make your app downloadable. 
+
+  * Push your app to heroku!
