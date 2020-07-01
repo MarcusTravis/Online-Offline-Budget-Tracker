@@ -6,13 +6,10 @@
 Check out the App here!:https://desolate-scrubland-50344.herokuapp.com/
 ## Table of Contents
 
-* [Prerequisites](#prerequisites)
-* [Installing](#Installing)
-* [Running the tests](#running-the-tests)
+* [Description](#description)
 * [Deployment](#deployment)
 * [Built With](#built-with)
 * [Contributing](#contributing)
-* [Version](#version)
 * [Authors](#authors)
 * [License](#license)
 * [Acknowledgements](#acknowledgements)
@@ -44,10 +41,6 @@ https://desolate-scrubland-50344.herokuapp.com/
 ## Contributing
 
 UofA starter code (starter HTML and CSS code)
-
-## Version
-(Update this as needed)
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
