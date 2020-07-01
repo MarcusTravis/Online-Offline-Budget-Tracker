@@ -12,7 +12,7 @@ When brought back online:
 Offline entries should be added to tracker.
 
 
-  *Create an app manifest.
+  * Create an app manifest.
 
   * Register and install a service worker.
 
