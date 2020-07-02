@@ -48,7 +48,7 @@ UofA starter code (starter HTML and CSS code)
 
 ## License
 
-N/A
+MIT
 
 ## Acknowledgments
 
